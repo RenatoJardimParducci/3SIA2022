@@ -1,2 +1,2 @@
 # 3SIA2022
-# Manutencao pelo Parducci via GITDESKTOP
+# Manutencao pelo Parducci via GITCMD com HUB e FLOW
